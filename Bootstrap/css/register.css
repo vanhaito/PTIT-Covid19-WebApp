@@ -1,0 +1,94 @@
+/* ----------------------HEADER------------------------- */
+
+.navbar{
+    background-color: #183661;
+}
+.navbar-nav.navbar-center {
+    position: relative;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.navbar .nav-link{
+    color: white;
+    margin-right: 15px;
+}
+
+.navbar .nav-link:hover{
+    color: #f37b4c;
+}
+
+#myBtn {
+    background: url(/assets/a.png);
+    background-size: 32px;
+    position: fixed;
+    bottom: 60px;
+    right: 45px;
+    width: 32px;
+    height: 32px;
+    border: none;
+}
+  
+#myBtn:hover {
+    filter: brightness(100%);
+    -webkit-filter: brightness(110%);
+}
+
+/* ----------------------BODY------------------------- */
+
+
+.title{
+    color: #0058c0;
+}
+
+.btn-login{
+    margin-left: 10px;
+    margin-top: 12px;
+    padding-left: 15px;
+    padding-top: 5px;
+    width: 120px;
+    height: 30px;
+    background-color: #f37b4c;
+    border-radius: 8px;
+    color: white;
+    border-width: 1px;
+}
+
+.login{
+    /* width: 400px; */
+    flex-wrap: wrap;
+    background: #fff;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%); 
+    /* ngang, dọc, độ mờ, màu */
+    border-radius: 1rem;
+    margin-right: 30px;
+    width: 600px;
+    height: 470px;
+}
+
+/* ----------------------FOOTER--------------------------- */
+
+
+.footer{
+    background-color: #183661;
+}
+
+.footer .footer-infor{
+    color: #fff;
+}
+
+.grey-1{
+    color: #767171;
+    font-style: italic;
+}
+
+.footer-img{
+    display: block;
+    float: left;
+    width: 50px;
+    height: 50px;
+    background: #1d93e3 ;
+    line-height: 44px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 20px;
+}
