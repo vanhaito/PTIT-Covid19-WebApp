@@ -1,8 +1,10 @@
-# PTIT-Covid19-W
-Đây là một project tại trường đại học môn lập trình web. Mục đích xây dựng trang web này là để tạo ra trang đăng ký tiêm vaccine cho cán bộ nhân viên và sinh viên PTIT
+# PTIT-Covid19-Web
+This is a project at the university of Web Programming. The aim of the project is to create a vaccination registration page for PTIT staff and students
 
-## Backend
+# Backend
 - PHP
+- JavaScript
+- MySQL
 
-## Front end
-- B
+# Front end
+- Boostrap
