@@ -1,5 +1,5 @@
 # PTIT-Covid19-WebApp
-This is a project at the university of Web Programming. The aim of the project is to create a vaccination registration page for PTIT staff and students
+This is a university project about Web Programming. The aim of the project is to create a vaccination registration page for PTIT staff and students
 
 # Backend
 - PHP
